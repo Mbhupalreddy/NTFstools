@@ -7,6 +7,6 @@ public class App {
 	}
     public static void main(String[] args) {
       App app=new App();
-      System.out.println(app.sum(5, 10));;
+      System.out.println("sum result22 is"+app.sum(5, 10));;
     }
 }
