@@ -10,7 +10,7 @@ public class App {
 
       System.out.println("sum result33 is"+app.sum(5, 10));;
 
-      System.out.println("sum result44 is"+app.sum(5, 10));;
+      System.out.println("sum result55 is"+app.sum(5, 10));;
  
     }
 }
