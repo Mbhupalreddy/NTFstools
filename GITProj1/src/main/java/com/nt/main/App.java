@@ -9,8 +9,11 @@ public class App {
       App app=new App();
 
       System.out.println("sum result33 is"+app.sum(5, 10));;
-//how are you!
+
+//how are you!//r u good today
       System.out.println("sum result22 is"+app.sum(5, 10));;
-//r u good today
+      System.out.println("sum result55 is"+app.sum(5, 10));;
+ 
+
     }
 }
