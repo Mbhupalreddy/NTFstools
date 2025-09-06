@@ -5,6 +5,9 @@ public class Upipayment {
 		return "bhupal";
 	}
 	
+	public void appAmount() {
+		
+	}
 	
 	public static void main(String[] args) {
 		
